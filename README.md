@@ -1,0 +1,2 @@
+# Weakauras
+My Weakauras
